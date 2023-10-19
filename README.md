@@ -1,3 +1,5 @@
+> ⚠️ This has now been added natively to CS2.
+
 # CS2 logaddress_add_http "Polyfill"
 
 Counter-Strike 2 currently does not have the `logaddress_add_http` command available for use.
